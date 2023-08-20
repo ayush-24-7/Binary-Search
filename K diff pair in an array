@@ -21,3 +21,6 @@ public:
         return ans.size();
     }
 };
+
+// there can be one another approch in which we first write binary search function code and then in the different function we can sort first and make a pair of ans then in loop search for arr[i]+k
+if its avialble then insert in set.
